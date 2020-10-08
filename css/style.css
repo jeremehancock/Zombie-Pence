@@ -6,7 +6,7 @@ body {
     color:white;
     overflow:hidden;
 }
-#gif-frame {
+#img-frame {
     position:fixed;
     top:0;
     left:0;
